@@ -1,0 +1,24 @@
+body{
+  text-align: center;
+  font-family: Cochin;
+  margin: 20px;
+  background-image: url(./dog.jpg);
+}
+
+div{
+  height: 200px;
+  width: 70%;
+  border: 2px solid white;
+  margin: auto;
+  background-color: white;
+}
+
+button{
+  border-radius: 5px;
+  margin: 30px;
+  padding: 10px;
+}
+
+h3{
+  color: white;
+}
